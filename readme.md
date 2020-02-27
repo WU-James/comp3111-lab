@@ -2,4 +2,4 @@ Name: WU YONGJIN
 
 ID: 20564741
 
-![screenshot](https://octodex.github.com/images/yaktocat.png)
+![screenshot.png](https://imagizer.imageshack.com/img922/7052/cpSZRw.png)
